@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+a {
+  color: #2B1873;
+  text-decoration: none; /* Remove default underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Optional hover effect */
+}
